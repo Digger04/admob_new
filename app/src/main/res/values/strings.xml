@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">admob_new</string>
+    <string name="ad_attribution">Ad</string>
+
+    <string name="customevent_banner_ad_unit_id" translatable="false">
+    ca-app-pub-3940256099942544/2336528657</string>
+    <string name="customevent_interstitial_ad_unit_id" translatable="false">
+    ca-app-pub-3940256099942544/4013406551</string>
+    <string name="customevent_native_ad_unit_id" translatable="false">
+    ca-app-pub-3940256099942544/9051804115</string>
+    <string name="customevent_rewarded_ad_unit_id" translatable="false">
+    ca-app-pub-3940256099942544/6223236111</string>
+
+<!--    baner edit-->
+    <string name="adapter_banner_ad_unit_id" translatable="false">
+    ca-app-pub-6133840427065570/8559119430</string>
+    <string name="adapter_interstitial_ad_unit_id" translatable="false">
+    ca-app-pub-6133840427065570/8415649202</string>
+    <string name="adapter_native_ad_unit_id" translatable="false">
+    ca-app-pub-6133840427065570/3219162848</string>
+    <string name="adapter_rewarded_ad_unit_id" translatable="false">
+    ca-app-pub-6133840427065570/3807509721</string>
+</resources>
